@@ -13,6 +13,6 @@ L'objectif était de reproduire l'interface de Twitter (X)
 - Recherche des tweets par hashtag (GET 'tweet/trends/:token')
 - Liker un tweet (PUT 'tweet/like')
 
-#Modèles et Schémas : 
+# Modèles et Schémas : 
 - users et User
 - tweets et Tweet
